@@ -11,15 +11,10 @@ Run the script and install the program on the Android device. Wait until it inst
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
 
 
 ## Author
