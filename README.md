@@ -21,7 +21,10 @@ To change [item], consider modifying [parametre(s)]
 2. Time needed for holding: threshold.
 3. Speed when scrolling: scrollSpeed.
 4. Block width: B2W (blockWidth/width)
-5. The data structure used is 2-directional circular linked list. To make it noncircular, consider modification in the classes.
+5. Number of blocks per display: maxBlocks
+6. Number of blocks at the beginning: taskInit
+7. Run Java mode: defaultTextSize = 12; size(200,500);
+8. The data structure used is 2-directional circular linked list. To make it noncircular, consider modification in the classes.
 
 
 ## Author
